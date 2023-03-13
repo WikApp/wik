@@ -1,2 +1,2 @@
-# wik
-Wik application to manage your student schedule
+# Wik
+The application to manage your student schedule
