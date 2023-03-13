@@ -11,6 +11,10 @@ buildscript {
     }
 }
 
+defaultConfig {
+    minSdkVersion 18
+}
+
 allprojects {
     repositories {
         google()

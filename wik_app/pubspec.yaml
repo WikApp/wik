@@ -9,6 +9,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  oauth2_client: ^3.2.1
+  url_launcher: ^6.1.10
 
 dev_dependencies:
   flutter_test:
